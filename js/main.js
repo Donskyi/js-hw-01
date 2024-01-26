@@ -1,5 +1,5 @@
 
-// const quantity = prompt("Введіть розмір вашої зарплати");
+const quantity = prompt("Введіть розмір вашої зарплати");
 
 const salary = 50000;
 let bonus = 0.15 * salary;
